@@ -163,6 +163,7 @@ Medir a **rapidez** e a **capacidade de processamento simultâneo** do sistema.
 > Por exemplo: primeiro realize um **teste de carga** para avaliar o desempenho médio, seguido de um **teste de estresse** para encontrar os limites e, por fim, um **teste de endurance** para garantir estabilidade ao longo do tempo.
 
 ---
+
 📘 **Autor:** Sandro Gonçales Funk  
 🎯 *QA Engineer | Performance & Automation Enthusiast*  
 📅 *Atualizado em 2025*

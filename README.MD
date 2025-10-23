@@ -105,17 +105,18 @@ Os **testes de performance** têm como objetivo avaliar **como um sistema se com
 
 ---
 
-## 📁 Estrutura sugerida para o repositório
+## 📁 Estrutura do repositório
 
+```bash
 📦 testes-performance/
-┣ 📂 docs/
-┃ ┣ 📜 conceitos.md
-┃ ┣ 📜 tipos-de-testes.md
-┃ ┣ 📜 metricas.md
-┃ ┗ 📜 processo.md
-┣ 📂 exemplos/
-┃ ┣ 📜 jmeter-exemplo.jmx
-┃ ┣ 📜 k6-script.js
-┃ ┗ 📜 locustfile.py
-┣ README.md
-┗ LICENSE
+ ┣ 📂 docs/
+ ┃ ┣ 📜 conceitos.md
+ ┃ ┣ 📜 tipos-de-testes.md
+ ┃ ┣ 📜 metricas.md
+ ┃ ┗ 📜 processo.md
+ ┣ 📂 exemplos/
+ ┃ ┣ 📜 jmeter-exemplo.jmx
+ ┃ ┣ 📜 k6-script.js
+ ┃ ┗ 📜 locustfile.py
+ ┣ 📜 README.md
+ ┗ 📜 LICENSE

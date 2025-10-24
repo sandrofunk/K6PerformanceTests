@@ -111,8 +111,8 @@ Os **testes de performance** têm como objetivo avaliar **como um sistema se com
 📦 testes-performance/
  ┣ 📂 docs/
  ┃ ┣ 📜 conceitos.md
- ┃ ┣ 📜 tipos-de-testes.md
  ┃ ┣ 📜 metricas.md
+ ┃ ┣ 📜 tipos-de-testes.md
  ┃ ┗ 📜 processo.md
  ┣ 📂 exemplos/
  ┃ ┣ 📜 jmeter-exemplo.jmx

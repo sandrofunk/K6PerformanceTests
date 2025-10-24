@@ -112,11 +112,17 @@ Os **testes de performance** têm como objetivo avaliar **como um sistema se com
  ┣ 📂 docs/
  ┃ ┣ 📜 conceitos.md
  ┃ ┣ 📜 metricas.md
- ┃ ┣ 📜 tipos-de-testes.md
- ┃ ┗ 📜 processo.md
+ ┃ ┣ 📜 processo.md
+ ┃ ┗ 📜 tipos-de-testes.md
  ┣ 📂 exemplos/
  ┃ ┣ 📜 jmeter-exemplo.jmx
  ┃ ┣ 📜 k6-script.js
  ┃ ┗ 📜 locustfile.py
  ┣ 📜 README.md
  ┗ 📜 LICENSE
+
+---
+
+📘 **Autor:** Sandro Gonçales Funk  
+🎯 *QA Engineer | Performance & Automation Enthusiast*  
+📅 *Atualizado em 2025*
